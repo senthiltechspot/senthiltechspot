@@ -15,7 +15,7 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senthiltechspot&theme=radical&hide_border=true"/>
 </p>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
+## <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="40"> **Languages & Tools:**
 
 <p align="center"> 
 
