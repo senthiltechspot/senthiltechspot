@@ -12,6 +12,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/senthiltechspot?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="senthiltechspot" height="30" width="40" /></a>
 - 💬 Ask me about **Java, HTML and CSS.**
 <br/>
+<br/>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senthiltechspot&theme=radical&hide_border=true"/>
 </p>
