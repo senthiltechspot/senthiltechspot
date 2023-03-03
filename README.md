@@ -42,7 +42,10 @@
 <a href="https://linkedin.com/in/senthiltechspot" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="senthiltechspot" /></a>
 <a href="https://github.com/senthiltechspot" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="senthiltechspot" /></a>
 <a href="mailto:senthilm784@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="senthiltechspot" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=senthiltechspot&label=Visitors&color=0088cc&style=flat-square" alt="senthiltechspot" />
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=senthiltechspot&label=Visitors&color=0088cc&style=flat-square)
+
 </p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
