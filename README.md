@@ -44,7 +44,7 @@
 <a href="mailto:senthilm784@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="senthiltechspot" /></a>
 <p align="center">
 
-![Visitor](https://komarev.com/ghpvc/?username=senthiltechspot&label=Visitors&color=0088cc&style=flat-square)
+![](https://komarev.com/ghpvc/?username=senthiltechspot&style=flat)
 
 </p>
 
