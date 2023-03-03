@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Coding Skills.**
 - 🌱 I’m currently learning **Competitive programming and DSA.**
-- 👯 I’m looking to collaborate on **Java and Web Projects.**
+- 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/senthiltechspot?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="senthiltechspot" height="30" width="40" /></a>
 - 💬 Ask me about **Java, HTML and CSS.**
 
