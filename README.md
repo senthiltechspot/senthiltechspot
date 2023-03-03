@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/senthiltechspot?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="senthiltechspot" height="30" width="40" /></a>
-- 💬 Ask me about **Java, HTML and CSS.**
+- 💬 Ask me about **JavaScript, HTML and CSS.**
 <br/>
 <br/>
 <p align="center">
@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/senthiltechspot" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="senthiltechspot" /></a>
 <a href="https://github.com/senthiltechspot" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="senthiltechspot" /></a>
 <a href="mailto:senthilm784@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="senthiltechspot" /></a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=senthiltechspot&label=Visitors&color=0088cc&style=flat-square" alt="senthiltechspot" /> </p>
+</p>
 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
