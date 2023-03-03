@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Senthil Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://magiccopy.xyz/assets/images/hadder.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
