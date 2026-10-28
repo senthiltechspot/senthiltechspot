@@ -4,10 +4,10 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
 - 🏗️ Currently building **[Venelx.com](https://venelx.com)** — an AI-native mobile CI/CD platform ("Vercel for mobile apps") running on owned Mac Mini M4 hardware
-- 🩺 Full-stack engineer at **AyuApp Pvt Ltd**, building AyuApp Pvt Ltd
+- 🩺 Full-stack engineer at **AyuApp Pvt Ltd**, build Ayu Health, Ayu Doctor, Ayu Pharma
 - 🥨 founder of **[Suvayam](https://suvayam.com)** — a D2C food brand selling GI-tagged Manaparai Murukku
 - 💬 Ask me about **React Native, Next.js, Node.js, TypeScript, Firebase, GCP, AI integrations**
-- 📫 Reach me at **senthilm784@gmail.com**
+- 📫 Reach me at **senthiltechspot@gmail.com**
 - 🌐 Portfolio: [senthiltechspot.in](https://senthiltechspot.in)
 
 <br clear="right"/>
