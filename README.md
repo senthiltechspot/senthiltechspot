@@ -8,10 +8,10 @@ Freelance React Native and full-stack developer. I build mobile apps, the backen
 
 | Project | My role | What it is |
 | --- | --- | --- |
-| **[Ayu Health](https://senthiltechspot.in/projects/ayuapp)** | Tech lead | Patient and pharmacy apps, a real-time doctor dashboard, and a voice AI receptionist in five Indian languages. Winner of the Google AI for Impact Award, APAC 2024. Live on the [App Store](https://apps.apple.com/in/app/ayu-health-organize-records/id6741565553) and [Google Play](https://play.google.com/store/apps/details?id=com.ayushaai.ayusha). |
+| **[Ayu Health](https://senthiltechspot.in/projects/ayuapp)** | Tech lead | Patient and pharmacy apps, a real-time doctor dashboard, and a voice AI receptionist in five Indian languages. Winner of the Google AI for Impact Award, APAC 2024. Live on the [App Store](https://apps.apple.com/in/app/ayu-health-organize-records/id6741565553) and [Google Play](https://play.google.com/store/apps/details?id=com.ayushaai.ayusha). Also shipped under the same developer account: [Ayu Pharma](https://apps.apple.com/in/app/ayu-pharma-buy-meds-at-home/id6748887320) and [Eyes & Papers](https://apps.apple.com/in/app/eyes-papers-by-remidio/id6752478529). |
 | **[VenelX](https://www.venelx.com/)** | Founder | CI/CD for Expo and React Native on Apple Silicon, with OTA updates and an MCP server for AI coding tools. |
 | **[Traxl](https://www.traxl.in/)** | Founder | Family location sharing with battery-friendly background tracking, geofences and SOS. Live on [Google Play](https://play.google.com/store/apps/details?id=com.traxl.app). |
-| **[Resona](https://resona.senthiltechspot.in/)** | Founder | Privacy-first Android music player for self-hosted servers. Live on [Google Play](https://play.google.com/store/apps/details?id=app.resona). |
+| **[Resona](https://resona.senthiltechspot.in/)** | Founder | Privacy-first Android music player for self-hosted servers. Google Play release pending. |
 | **[Skale](https://skale.nl/)** (Netherlands) | Freelance developer | Client portal built as an installable PWA from the client's Figma designs. |
 
 ## Stack
