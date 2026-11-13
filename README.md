@@ -12,7 +12,10 @@ Freelance React Native and full-stack developer. I build mobile apps, the backen
 | **[VenelX](https://www.venelx.com/)** | Founder | CI/CD for Expo and React Native on Apple Silicon, with OTA updates and an MCP server for AI coding tools. VenelX Studio, a Mac app that turns your own Mac mini into the team's release machine, is coming soon. |
 | **[Traxl](https://www.traxl.in/)** | Founder | Family location sharing with battery-friendly background tracking, geofences and SOS. Live on [Google Play](https://play.google.com/store/apps/details?id=com.traxl.app). |
 | **[Resona](https://resona.senthiltechspot.in/)** | Founder | Privacy-first Android music player for self-hosted servers. Google Play release pending. |
+
+<!-- Skale row removed until Jorn gives written permission to be named (Services Agreement clause 6.5). Restore it in the table above:
 | **[Skale](https://skale.nl/)** (Netherlands) | Freelance developer | Client portal built as an installable PWA from the client's Figma designs. |
+-->
 
 ## Stack
 
@@ -27,6 +30,7 @@ Freelance React Native and full-stack developer. I build mobile apps, the backen
 - [Architecting a real-time clinical voice AI receptionist](https://senthiltechspot.in/blog/clinical-voice-ai-receptionist-gemini-live-plivo)
 - [Battery-friendly background geolocation in React Native](https://senthiltechspot.in/blog/battery-friendly-background-geolocation-react-native)
 - [Next.js 15 PWA vs. native mobile app](https://senthiltechspot.in/blog/nextjs-15-pwa-vs-native-mobile-app)
+- [What you should receive when a developer hands over your app](https://senthiltechspot.in/blog/app-handover-checklist)
 
 ## Work with me
 
